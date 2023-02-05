@@ -47,10 +47,10 @@
 		379D318F298F7BA900D7D525 /* 3-1.structure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-1.structure.cpp"; sourceTree = "<group>"; };
 		379D3191298F7F1400D7D525 /* 3-2.class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-2.class.cpp"; sourceTree = "<group>"; };
 		379D3193298F814F00D7D525 /* 3-3.object_oriented_programming.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-3.object_oriented_programming.cpp"; sourceTree = "<group>"; };
-		379D3195298F954900D7D525 /* 4-1.private.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-1.private.cpp"; sourceTree = SOURCE_ROOT; };
+		379D3195298F954900D7D525 /* 4-1.private.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "4-1.private.cpp"; path = "cpp_test/4-1.private.cpp"; sourceTree = SOURCE_ROOT; };
 		379D3197298F985F00D7D525 /* 4-3.encapsulation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-3.encapsulation.cpp"; sourceTree = "<group>"; };
 		379D3199298F9A7400D7D525 /* 4-4.constructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-4.constructor.cpp"; sourceTree = "<group>"; };
-		379D319B298F9BFB00D7D525 /* 4-5.destructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-5.destructor.cpp"; sourceTree = SOURCE_ROOT; };
+		379D319B298F9BFB00D7D525 /* 4-5.destructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "4-5.destructor.cpp"; path = "cpp_test/4-5.destructor.cpp"; sourceTree = SOURCE_ROOT; };
 		379D319E298F9D6A00D7D525 /* 4-6.this.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-6.this.cpp"; sourceTree = "<group>"; };
 		379D31A0298F9F0900D7D525 /* 4-7.self_reference.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-7.self_reference.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
