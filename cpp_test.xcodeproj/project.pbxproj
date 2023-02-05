@@ -16,6 +16,12 @@
 		379D3190298F7BA900D7D525 /* 3-1.structure.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D318F298F7BA900D7D525 /* 3-1.structure.cpp */; };
 		379D3192298F7F1400D7D525 /* 3-2.class.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D3191298F7F1400D7D525 /* 3-2.class.cpp */; };
 		379D3194298F814F00D7D525 /* 3-3.object_oriented_programming.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D3193298F814F00D7D525 /* 3-3.object_oriented_programming.cpp */; };
+		379D3196298F954900D7D525 /* 4-1.private.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D3195298F954900D7D525 /* 4-1.private.cpp */; };
+		379D3198298F985F00D7D525 /* 4-3.encapsulation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D3197298F985F00D7D525 /* 4-3.encapsulation.cpp */; };
+		379D319A298F9A7400D7D525 /* 4-4.constructor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D3199298F9A7400D7D525 /* 4-4.constructor.cpp */; };
+		379D319D298F9BFB00D7D525 /* 4-5.destructor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D319B298F9BFB00D7D525 /* 4-5.destructor.cpp */; };
+		379D319F298F9D6A00D7D525 /* 4-6.this.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D319E298F9D6A00D7D525 /* 4-6.this.cpp */; };
+		379D31A1298F9F0900D7D525 /* 4-7.self_reference.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D31A0298F9F0900D7D525 /* 4-7.self_reference.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +47,12 @@
 		379D318F298F7BA900D7D525 /* 3-1.structure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-1.structure.cpp"; sourceTree = "<group>"; };
 		379D3191298F7F1400D7D525 /* 3-2.class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-2.class.cpp"; sourceTree = "<group>"; };
 		379D3193298F814F00D7D525 /* 3-3.object_oriented_programming.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-3.object_oriented_programming.cpp"; sourceTree = "<group>"; };
+		379D3195298F954900D7D525 /* 4-1.private.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-1.private.cpp"; sourceTree = SOURCE_ROOT; };
+		379D3197298F985F00D7D525 /* 4-3.encapsulation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-3.encapsulation.cpp"; sourceTree = "<group>"; };
+		379D3199298F9A7400D7D525 /* 4-4.constructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-4.constructor.cpp"; sourceTree = "<group>"; };
+		379D319B298F9BFB00D7D525 /* 4-5.destructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-5.destructor.cpp"; sourceTree = SOURCE_ROOT; };
+		379D319E298F9D6A00D7D525 /* 4-6.this.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-6.this.cpp"; sourceTree = "<group>"; };
+		379D31A0298F9F0900D7D525 /* 4-7.self_reference.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "4-7.self_reference.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +94,12 @@
 				379D318F298F7BA900D7D525 /* 3-1.structure.cpp */,
 				379D3191298F7F1400D7D525 /* 3-2.class.cpp */,
 				379D3193298F814F00D7D525 /* 3-3.object_oriented_programming.cpp */,
+				379D3195298F954900D7D525 /* 4-1.private.cpp */,
+				379D3197298F985F00D7D525 /* 4-3.encapsulation.cpp */,
+				379D3199298F9A7400D7D525 /* 4-4.constructor.cpp */,
+				379D319B298F9BFB00D7D525 /* 4-5.destructor.cpp */,
+				379D319E298F9D6A00D7D525 /* 4-6.this.cpp */,
+				379D31A0298F9F0900D7D525 /* 4-7.self_reference.cpp */,
 			);
 			path = cpp_test;
 			sourceTree = "<group>";
@@ -143,13 +161,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				379D31A1298F9F0900D7D525 /* 4-7.self_reference.cpp in Sources */,
+				379D3196298F954900D7D525 /* 4-1.private.cpp in Sources */,
 				3756D8F3298E4D6300160A10 /* 2-2.reference.cpp in Sources */,
 				379D3190298F7BA900D7D525 /* 3-1.structure.cpp in Sources */,
 				379D3194298F814F00D7D525 /* 3-3.object_oriented_programming.cpp in Sources */,
+				379D319D298F9BFB00D7D525 /* 4-5.destructor.cpp in Sources */,
 				3756D8F1298E4B1800160A10 /* 2-1.constant.cpp in Sources */,
 				379D318E298F752B00D7D525 /* testground.cpp in Sources */,
 				379D3192298F7F1400D7D525 /* 3-2.class.cpp in Sources */,
 				3756D8EE298E368D00160A10 /* 1-3.inline_function.cpp in Sources */,
+				379D3198298F985F00D7D525 /* 4-3.encapsulation.cpp in Sources */,
+				379D319F298F9D6A00D7D525 /* 4-6.this.cpp in Sources */,
+				379D319A298F9A7400D7D525 /* 4-4.constructor.cpp in Sources */,
 				375B4A00298D7E8F00418C47 /* 1-1.input_output.cpp in Sources */,
 				3756D8EB298E364800160A10 /* 1-2.overloading.cpp in Sources */,
 			);
