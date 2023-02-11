@@ -27,7 +27,7 @@ public:
     }
 };
 
-int main() {
+int main_5_5() {
     Temporary(100);
     cout << "********************after make!" << endl << endl;
     

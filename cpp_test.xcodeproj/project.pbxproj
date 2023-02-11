@@ -50,9 +50,9 @@
 		375B49FF298D7E8F00418C47 /* 1-1.input_output.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1-1.input_output.cpp"; sourceTree = "<group>"; };
 		376E915D299761F4001BC249 /* 5-1.copy_constructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-1.copy_constructor.cpp"; sourceTree = "<group>"; };
 		376E915F2997638B001BC249 /* 5-2.shallow_copy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-2.shallow_copy.cpp"; sourceTree = "<group>"; };
-		376E9161299765C1001BC249 /* 5-3.deep_copy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-3.deep_copy.cpp"; sourceTree = SOURCE_ROOT; };
-		376E916329976635001BC249 /* 5-4.parameters_in_function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-4.parameters_in_function.cpp"; sourceTree = SOURCE_ROOT; };
-		376E9165299767BB001BC249 /* 5-5.temporary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-5.temporary.cpp"; sourceTree = SOURCE_ROOT; };
+		376E9161299765C1001BC249 /* 5-3.deep_copy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "5-3.deep_copy.cpp"; path = "cpp_test/5-3.deep_copy.cpp"; sourceTree = SOURCE_ROOT; };
+		376E916329976635001BC249 /* 5-4.parameters_in_function.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "5-4.parameters_in_function.cpp"; path = "cpp_test/5-4.parameters_in_function.cpp"; sourceTree = SOURCE_ROOT; };
+		376E9165299767BB001BC249 /* 5-5.temporary.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = "5-5.temporary.cpp"; path = "cpp_test/5-5.temporary.cpp"; sourceTree = SOURCE_ROOT; };
 		379D318D298F752B00D7D525 /* testground.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = testground.cpp; path = cpp_test/testground.cpp; sourceTree = "<group>"; };
 		379D318F298F7BA900D7D525 /* 3-1.structure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-1.structure.cpp"; sourceTree = "<group>"; };
 		379D3191298F7F1400D7D525 /* 3-2.class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-2.class.cpp"; sourceTree = "<group>"; };
