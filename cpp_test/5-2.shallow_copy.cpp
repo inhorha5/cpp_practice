@@ -35,10 +35,10 @@ public:
     }
 };
 
-int main() {
-    Person person1("James", 20);
-    Person person2 = person1;
-    person1.showPersonInfo();
-//    person2.showPersonInfo();
-    return 0;
-}
+//int main() {
+//    Person person1("James", 20);
+//    Person person2 = person1;
+//    person1.showPersonInfo();
+////    person2.showPersonInfo();
+//    return 0;
+//}
