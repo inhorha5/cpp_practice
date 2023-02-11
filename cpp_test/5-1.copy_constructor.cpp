@@ -26,10 +26,11 @@ public:
     }
 };
 
-int main() {
+int main_5_1() {
     SoSimple simple1(10,20);
     cout << "생성 및 초기화 직전" << endl;
     SoSimple simple2 = simple1;
     cout << "생성 및 초기화 직후" << endl;
     simple2.showSimpledata();
+    return 0;
 }

@@ -13,6 +13,8 @@
 		3756D8F3298E4D6300160A10 /* 2-2.reference.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3756D8F2298E4D6300160A10 /* 2-2.reference.cpp */; };
 		375B4A00298D7E8F00418C47 /* 1-1.input_output.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 375B49FF298D7E8F00418C47 /* 1-1.input_output.cpp */; };
 		376E915E299761F4001BC249 /* 5-1.copy_constructor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E915D299761F4001BC249 /* 5-1.copy_constructor.cpp */; };
+		376E91602997638B001BC249 /* 5-2.shallow_copy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E915F2997638B001BC249 /* 5-2.shallow_copy.cpp */; };
+		376E9162299765C1001BC249 /* 5-3.deep_copy.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E9161299765C1001BC249 /* 5-3.deep_copy.cpp */; };
 		379D318E298F752B00D7D525 /* testground.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D318D298F752B00D7D525 /* testground.cpp */; };
 		379D3190298F7BA900D7D525 /* 3-1.structure.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D318F298F7BA900D7D525 /* 3-1.structure.cpp */; };
 		379D3192298F7F1400D7D525 /* 3-2.class.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D3191298F7F1400D7D525 /* 3-2.class.cpp */; };
@@ -45,6 +47,8 @@
 		375B49FC298D7E8F00418C47 /* cpp_test */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cpp_test; sourceTree = BUILT_PRODUCTS_DIR; };
 		375B49FF298D7E8F00418C47 /* 1-1.input_output.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "1-1.input_output.cpp"; sourceTree = "<group>"; };
 		376E915D299761F4001BC249 /* 5-1.copy_constructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-1.copy_constructor.cpp"; sourceTree = "<group>"; };
+		376E915F2997638B001BC249 /* 5-2.shallow_copy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-2.shallow_copy.cpp"; sourceTree = "<group>"; };
+		376E9161299765C1001BC249 /* 5-3.deep_copy.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "5-3.deep_copy.cpp"; sourceTree = SOURCE_ROOT; };
 		379D318D298F752B00D7D525 /* testground.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = testground.cpp; path = cpp_test/testground.cpp; sourceTree = "<group>"; };
 		379D318F298F7BA900D7D525 /* 3-1.structure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-1.structure.cpp"; sourceTree = "<group>"; };
 		379D3191298F7F1400D7D525 /* 3-2.class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-2.class.cpp"; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				379D319E298F9D6A00D7D525 /* 4-6.this.cpp */,
 				379D31A0298F9F0900D7D525 /* 4-7.self_reference.cpp */,
 				376E915D299761F4001BC249 /* 5-1.copy_constructor.cpp */,
+				376E915F2997638B001BC249 /* 5-2.shallow_copy.cpp */,
+				376E9161299765C1001BC249 /* 5-3.deep_copy.cpp */,
 			);
 			path = cpp_test;
 			sourceTree = "<group>";
@@ -171,10 +177,12 @@
 				379D3194298F814F00D7D525 /* 3-3.object_oriented_programming.cpp in Sources */,
 				379D319D298F9BFB00D7D525 /* 4-5.destructor.cpp in Sources */,
 				3756D8F1298E4B1800160A10 /* 2-1.constant.cpp in Sources */,
+				376E9162299765C1001BC249 /* 5-3.deep_copy.cpp in Sources */,
 				379D318E298F752B00D7D525 /* testground.cpp in Sources */,
 				379D3192298F7F1400D7D525 /* 3-2.class.cpp in Sources */,
 				3756D8EE298E368D00160A10 /* 1-3.inline_function.cpp in Sources */,
 				379D3198298F985F00D7D525 /* 4-3.encapsulation.cpp in Sources */,
+				376E91602997638B001BC249 /* 5-2.shallow_copy.cpp in Sources */,
 				376E915E299761F4001BC249 /* 5-1.copy_constructor.cpp in Sources */,
 				379D319F298F9D6A00D7D525 /* 4-6.this.cpp in Sources */,
 				379D319A298F9A7400D7D525 /* 4-4.constructor.cpp in Sources */,
