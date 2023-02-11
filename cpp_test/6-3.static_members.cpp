@@ -40,9 +40,14 @@ public:
     }
 };
 
-int SoComplex:::complexObjectCount = 0;
+int SoComplex::complexObjectCount = 0;
 
-int main(){
+int main_6_3(){
+    SoSimple simple1, simple2;
+    SoComplex complex1, complex2 = complex1;
+    SoComplex();
+    
+    cout << "num of complex: " << complex1.getNum() << endl;
     
     return 0;
 }
