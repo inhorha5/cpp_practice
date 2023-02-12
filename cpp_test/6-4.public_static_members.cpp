@@ -20,7 +20,7 @@ public:
 };
 int SoSimple2::simpleObjectCount = 0;
 
-int main() {
+int main_6_4() {
     cout << SoSimple2::simpleObjectCount << " SoSimple exists" << endl;
     SoSimple2 simple1;
     SoSimple2 simple2;
