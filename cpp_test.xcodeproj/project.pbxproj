@@ -20,6 +20,10 @@
 		376E9168299774D1001BC249 /* 6-1.const_object.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E9167299774D1001BC249 /* 6-1.const_object.cpp */; };
 		376E916A299775DA001BC249 /* 6-2.const_overloading.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E9169299775DA001BC249 /* 6-2.const_overloading.cpp */; };
 		376E916C299777EF001BC249 /* 6-3.static_members.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E916B299777EF001BC249 /* 6-3.static_members.cpp */; };
+		376E916E29977A8D001BC249 /* 6-4.public_static_members.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E916D29977A8D001BC249 /* 6-4.public_static_members.cpp */; };
+		376E917029977C07001BC249 /* 6-5.const_static_members.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E916F29977C07001BC249 /* 6-5.const_static_members.cpp */; };
+		376E9172299785C9001BC249 /* 7-1.inheritance.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 376E9171299785C9001BC249 /* 7-1.inheritance.cpp */; };
+		3790DC832998A7970034AF19 /* 7-2.child_class_constructor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 3790DC822998A7970034AF19 /* 7-2.child_class_constructor.cpp */; };
 		379D318E298F752B00D7D525 /* testground.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D318D298F752B00D7D525 /* testground.cpp */; };
 		379D3190298F7BA900D7D525 /* 3-1.structure.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D318F298F7BA900D7D525 /* 3-1.structure.cpp */; };
 		379D3192298F7F1400D7D525 /* 3-2.class.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 379D3191298F7F1400D7D525 /* 3-2.class.cpp */; };
@@ -59,6 +63,10 @@
 		376E9167299774D1001BC249 /* 6-1.const_object.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6-1.const_object.cpp"; sourceTree = "<group>"; };
 		376E9169299775DA001BC249 /* 6-2.const_overloading.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6-2.const_overloading.cpp"; sourceTree = "<group>"; };
 		376E916B299777EF001BC249 /* 6-3.static_members.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6-3.static_members.cpp"; sourceTree = "<group>"; };
+		376E916D29977A8D001BC249 /* 6-4.public_static_members.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6-4.public_static_members.cpp"; sourceTree = "<group>"; };
+		376E916F29977C07001BC249 /* 6-5.const_static_members.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "6-5.const_static_members.cpp"; sourceTree = "<group>"; };
+		376E9171299785C9001BC249 /* 7-1.inheritance.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7-1.inheritance.cpp"; sourceTree = "<group>"; };
+		3790DC822998A7970034AF19 /* 7-2.child_class_constructor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "7-2.child_class_constructor.cpp"; sourceTree = "<group>"; };
 		379D318D298F752B00D7D525 /* testground.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = testground.cpp; path = cpp_test/testground.cpp; sourceTree = "<group>"; };
 		379D318F298F7BA900D7D525 /* 3-1.structure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-1.structure.cpp"; sourceTree = "<group>"; };
 		379D3191298F7F1400D7D525 /* 3-2.class.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "3-2.class.cpp"; sourceTree = "<group>"; };
@@ -124,6 +132,10 @@
 				376E9167299774D1001BC249 /* 6-1.const_object.cpp */,
 				376E9169299775DA001BC249 /* 6-2.const_overloading.cpp */,
 				376E916B299777EF001BC249 /* 6-3.static_members.cpp */,
+				376E916D29977A8D001BC249 /* 6-4.public_static_members.cpp */,
+				376E916F29977C07001BC249 /* 6-5.const_static_members.cpp */,
+				376E9171299785C9001BC249 /* 7-1.inheritance.cpp */,
+				3790DC822998A7970034AF19 /* 7-2.child_class_constructor.cpp */,
 			);
 			path = cpp_test;
 			sourceTree = "<group>";
@@ -189,6 +201,7 @@
 				379D3196298F954900D7D525 /* 4-1.private.cpp in Sources */,
 				376E9166299767BB001BC249 /* 5-5.temporary.cpp in Sources */,
 				3756D8F3298E4D6300160A10 /* 2-2.reference.cpp in Sources */,
+				376E917029977C07001BC249 /* 6-5.const_static_members.cpp in Sources */,
 				376E916429976635001BC249 /* 5-4.parameters_in_function.cpp in Sources */,
 				379D3190298F7BA900D7D525 /* 3-1.structure.cpp in Sources */,
 				379D3194298F814F00D7D525 /* 3-3.object_oriented_programming.cpp in Sources */,
@@ -196,6 +209,7 @@
 				3756D8F1298E4B1800160A10 /* 2-1.constant.cpp in Sources */,
 				376E9168299774D1001BC249 /* 6-1.const_object.cpp in Sources */,
 				376E9162299765C1001BC249 /* 5-3.deep_copy.cpp in Sources */,
+				376E916E29977A8D001BC249 /* 6-4.public_static_members.cpp in Sources */,
 				379D318E298F752B00D7D525 /* testground.cpp in Sources */,
 				379D3192298F7F1400D7D525 /* 3-2.class.cpp in Sources */,
 				376E916C299777EF001BC249 /* 6-3.static_members.cpp in Sources */,
@@ -204,9 +218,11 @@
 				379D3198298F985F00D7D525 /* 4-3.encapsulation.cpp in Sources */,
 				376E91602997638B001BC249 /* 5-2.shallow_copy.cpp in Sources */,
 				376E915E299761F4001BC249 /* 5-1.copy_constructor.cpp in Sources */,
+				376E9172299785C9001BC249 /* 7-1.inheritance.cpp in Sources */,
 				379D319F298F9D6A00D7D525 /* 4-6.this.cpp in Sources */,
 				379D319A298F9A7400D7D525 /* 4-4.constructor.cpp in Sources */,
 				375B4A00298D7E8F00418C47 /* 1-1.input_output.cpp in Sources */,
+				3790DC832998A7970034AF19 /* 7-2.child_class_constructor.cpp in Sources */,
 				3756D8EB298E364800160A10 /* 1-2.overloading.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
