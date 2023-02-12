@@ -1,5 +1,5 @@
 //
-//  8-2.overriding.cpp
+//  8-3.virtual_overriding.cpp
 //  cpp_test
 //
 //  Created by InHo Rha on 2/12/23.
@@ -9,29 +9,32 @@
 
 using namespace std;
 
+
 class First {
 public:
-    void myFunc() {
+    virtual void myFunc() {
         cout << "First Function" << endl;
     }
 };
 
+
 class Second : public First {
 public:
-    void myFunc() {
+    virtual void myFunc() {
         cout << "Second Function" << endl;
     }
 };
 
+
 class Third : public Second {
 public:
-    void myFunc() {
+    virtual void myFunc() {
         cout << "Third Function" << endl;
     }
 };
 
 
-int main_8_2() {
+int main() {
     Third* t_ptr = new Third();
     Second* s_ptr = t_ptr;
     First* f_ptr = t_ptr;
