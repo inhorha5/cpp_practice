@@ -34,7 +34,7 @@ public:
 };
 
 
-int main() {
+int main_8_3() {
     Third* t_ptr = new Third();
     Second* s_ptr = t_ptr;
     First* f_ptr = t_ptr;

@@ -40,7 +40,7 @@ public:
 };
 
 
-int main() {
+int main_8_4() {
     First2* ptr = new Second2("a", "b");
     delete ptr;
     
