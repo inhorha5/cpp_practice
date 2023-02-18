@@ -45,7 +45,7 @@ public:
 };
 
 
-int main() {
+int main_11_1() {
     Parent parent(11, 22);
     Parent parent_copy;
     Child child(33, 44);
