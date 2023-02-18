@@ -43,4 +43,6 @@ int main_0_0() {
     Fibonacci fibonacci(1,2);
     cout << fibonacci.getResult(4) << endl;
     
+    return 0;
+    
 }
