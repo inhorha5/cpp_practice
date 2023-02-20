@@ -99,7 +99,7 @@ public:
 };
 
 
-int main() {
+int main_11_5() {
     Adder adder;
     
     cout << adder(1, 3) << endl;
